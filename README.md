@@ -11,3 +11,8 @@
     * * `Update-Database -Context ContextBase`
 * Se tudo ocorrer bem execute a API com F5
 * Após use a rota `/api/AdicionarUsuario` para criar um usuário para gerar o token e acessar as demais rotas
+
+*Infelizmente o botão de autenticação não foi possivel incluir, o código esta descrito no arquivo `Program.cs` mas ficou comentado um erro que desconheço*
+
+--------------
+Para testar as requisições sugiro utilizar um outro programa como Insomnia ou o Postman.
