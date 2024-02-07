@@ -28,7 +28,7 @@ namespace Database.Configuracao
 
         public string ObterStringConexao()
         {
-            return "Server = localhost; Port = 5432; Database = conta; User Id = postgres; Password = masterkey"; // "Host={localhost};Username={postgres};Password={masterkey};Database={conta}";
+            return "Server = localhost; Port = 5432; Database = conta; User Id = postgres; Password = masterkey"; 
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
