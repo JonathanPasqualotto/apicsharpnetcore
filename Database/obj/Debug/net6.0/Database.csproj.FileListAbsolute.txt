@@ -17,3 +17,4 @@ D:\avaliacao_csharp\Avaliacao_CScharp\Database\obj\Debug\net6.0\refint\Database.
 D:\avaliacao_csharp\Avaliacao_CScharp\Database\obj\Debug\net6.0\Database.pdb
 D:\avaliacao_csharp\Avaliacao_CScharp\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
 D:\avaliacao_csharp\Avaliacao_CScharp\Database\obj\Debug\net6.0\ref\Database.dll
+D:\avaliacao_csharp\Avaliacao_CScharp\Database\obj\Debug\net6.0\Database.sourcelink.json

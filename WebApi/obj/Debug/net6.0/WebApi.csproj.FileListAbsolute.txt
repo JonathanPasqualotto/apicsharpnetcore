@@ -62,3 +62,4 @@ D:\avaliacao_csharp\Avaliacao_CScharp\WebApi\obj\Debug\net6.0\refint\WebApi.dll
 D:\avaliacao_csharp\Avaliacao_CScharp\WebApi\obj\Debug\net6.0\WebApi.pdb
 D:\avaliacao_csharp\Avaliacao_CScharp\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
 D:\avaliacao_csharp\Avaliacao_CScharp\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+D:\avaliacao_csharp\Avaliacao_CScharp\WebApi\obj\Debug\net6.0\WebApi.sourcelink.json

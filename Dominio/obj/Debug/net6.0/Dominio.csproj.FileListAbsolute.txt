@@ -13,3 +13,4 @@ D:\avaliacao_csharp\Avaliacao_CScharp\Dominio\obj\Debug\net6.0\Dominio.dll
 D:\avaliacao_csharp\Avaliacao_CScharp\Dominio\obj\Debug\net6.0\refint\Dominio.dll
 D:\avaliacao_csharp\Avaliacao_CScharp\Dominio\obj\Debug\net6.0\Dominio.pdb
 D:\avaliacao_csharp\Avaliacao_CScharp\Dominio\obj\Debug\net6.0\ref\Dominio.dll
+D:\avaliacao_csharp\Avaliacao_CScharp\Dominio\obj\Debug\net6.0\Dominio.sourcelink.json
