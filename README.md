@@ -1,1 +1,5 @@
-# apicsharpnetcore
+## API C# .NET CORE 6.0
+
+# SEQUENCIA PARA EXECUÇÃO DA API
+
+* teste
