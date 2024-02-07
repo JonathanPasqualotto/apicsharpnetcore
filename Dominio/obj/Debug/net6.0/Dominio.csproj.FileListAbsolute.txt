@@ -1,0 +1,15 @@
+D:\avaliacao_csharp\Avaliacao_CScharp\Dominio\bin\Debug\net6.0\Dominio.deps.json
+D:\avaliacao_csharp\Avaliacao_CScharp\Dominio\bin\Debug\net6.0\Dominio.dll
+D:\avaliacao_csharp\Avaliacao_CScharp\Dominio\bin\Debug\net6.0\Dominio.pdb
+D:\avaliacao_csharp\Avaliacao_CScharp\Dominio\bin\Debug\net6.0\Entities.dll
+D:\avaliacao_csharp\Avaliacao_CScharp\Dominio\bin\Debug\net6.0\Entities.pdb
+D:\avaliacao_csharp\Avaliacao_CScharp\Dominio\obj\Debug\net6.0\Dominio.csproj.AssemblyReference.cache
+D:\avaliacao_csharp\Avaliacao_CScharp\Dominio\obj\Debug\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\avaliacao_csharp\Avaliacao_CScharp\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfoInputs.cache
+D:\avaliacao_csharp\Avaliacao_CScharp\Dominio\obj\Debug\net6.0\Dominio.AssemblyInfo.cs
+D:\avaliacao_csharp\Avaliacao_CScharp\Dominio\obj\Debug\net6.0\Dominio.csproj.CoreCompileInputs.cache
+D:\avaliacao_csharp\Avaliacao_CScharp\Dominio\obj\Debug\net6.0\Dominio.csproj.CopyComplete
+D:\avaliacao_csharp\Avaliacao_CScharp\Dominio\obj\Debug\net6.0\Dominio.dll
+D:\avaliacao_csharp\Avaliacao_CScharp\Dominio\obj\Debug\net6.0\refint\Dominio.dll
+D:\avaliacao_csharp\Avaliacao_CScharp\Dominio\obj\Debug\net6.0\Dominio.pdb
+D:\avaliacao_csharp\Avaliacao_CScharp\Dominio\obj\Debug\net6.0\ref\Dominio.dll

@@ -1,0 +1,12 @@
+D:\avaliacao_csharp\Avaliacao_CScharp\Avaliacao_CScharp\bin\Debug\net6.0\Entidades.deps.json
+D:\avaliacao_csharp\Avaliacao_CScharp\Avaliacao_CScharp\bin\Debug\net6.0\Entidades.dll
+D:\avaliacao_csharp\Avaliacao_CScharp\Avaliacao_CScharp\bin\Debug\net6.0\Entidades.pdb
+D:\avaliacao_csharp\Avaliacao_CScharp\Avaliacao_CScharp\obj\Debug\net6.0\Entidades.csproj.AssemblyReference.cache
+D:\avaliacao_csharp\Avaliacao_CScharp\Avaliacao_CScharp\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\avaliacao_csharp\Avaliacao_CScharp\Avaliacao_CScharp\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+D:\avaliacao_csharp\Avaliacao_CScharp\Avaliacao_CScharp\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+D:\avaliacao_csharp\Avaliacao_CScharp\Avaliacao_CScharp\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+D:\avaliacao_csharp\Avaliacao_CScharp\Avaliacao_CScharp\obj\Debug\net6.0\Entidades.dll
+D:\avaliacao_csharp\Avaliacao_CScharp\Avaliacao_CScharp\obj\Debug\net6.0\refint\Entidades.dll
+D:\avaliacao_csharp\Avaliacao_CScharp\Avaliacao_CScharp\obj\Debug\net6.0\Entidades.pdb
+D:\avaliacao_csharp\Avaliacao_CScharp\Avaliacao_CScharp\obj\Debug\net6.0\ref\Entidades.dll
