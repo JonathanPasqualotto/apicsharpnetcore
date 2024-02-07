@@ -1,5 +1,5 @@
-## API C# .NET CORE 6.0
+# API C# .NET CORE 6.0
 
-# SEQUENCIA PARA EXECUÇÃO DA API
+## SEQUENCIA PARA EXECUÇÃO DA API
 
-* teste
+* Abra a solução denominada `Avaliacao_CScharp.sln`
